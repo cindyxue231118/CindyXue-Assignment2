@@ -1,0 +1,29 @@
+body{
+    background: rgb(254, 242, 217);
+}
+
+.LandingTitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(85, 49, 5);
+    font-size: 80px;
+    position: absolute;
+    margin-top: 0px;
+    top: 40px;
+    left: 50px;
+    width: 700px;
+    font-weight:bold;
+}
+
+.container {
+    position: absolute;
+    width: 700px;
+    height: 700px;
+}
+
+.pufferfish{
+    position:absolute;
+    top: 90px;
+    right: 90px;
+    transition: 1s;
+    width: 570px;
+}

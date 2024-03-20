@@ -1,0 +1,73 @@
+body{
+    background: rgb(232, 202, 206);
+    height: 1720px;
+    margin:0px;
+}
+
+.BannerImage{
+    height: 100%;
+    position: absolute;
+}
+
+.BannerText{
+    color: rgb(85, 49, 5);
+    font-size:400%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    z-index: 1;
+    position: absolute;
+    right:3%;
+    top: 30%;
+    margin:0%;
+    width: 40%;
+}
+
+.Banner{
+    height:100%;
+    width:100%;
+    margin: 0px;
+    position: absolute;
+    background: rgb(254, 242, 217);
+}
+
+.HeadPageImg1{
+    position: absolute;
+    width: 30%;
+    margin:0px;
+    z-index: 2;
+    top: 1110px;
+    left: 405px;
+}
+
+.HeadPageH1{
+    width: 30%;
+    margin:0px;
+    z-index: 2;
+    font-family: 'Segoe UI black', Helvetica, Arial, sans-serif;
+    position: absolute;
+    top: 738px;
+    left: 100px;
+    font-size: 200%;
+}
+
+.HeadPageP1{
+    position: absolute;
+    width: 30%;
+    margin:0px;
+    z-index: 2;
+    top: 790px;
+    left: 405px;
+}
+
+.ReturnHome{
+    height: 10px;
+    width: 184px;
+    position: absolute;
+    top: 1670px;
+    right: 100px;
+    font-family: 'Segoe UI extra bold', Helvetica, Arial, sans-serif;
+}
+
+span{
+    color:rgb(46, 205, 208);
+    font-weight: 700;
+}
